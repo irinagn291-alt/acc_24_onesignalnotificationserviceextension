@@ -1,0 +1,10 @@
+{
+  "highSugarThresholdG": 22.5,
+  "highSaltThresholdG": 1.5,
+  "highSaturatedFatThresholdG": 5,
+  "highSugarMessage": "High sugar content",
+  "highSaltMessage": "High salt content",
+  "highSaturatedFatMessage": "High saturated fat content",
+  "ultraProcessedMessage": "Ultra-processed product",
+  "palmOilMessage": "Contains palm oil"
+}
